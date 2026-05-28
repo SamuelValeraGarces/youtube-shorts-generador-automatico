@@ -25,6 +25,7 @@ Workflow de n8n que genera videos cortos automáticamente usando IA.
 4. Ejecuta el workflow manualmente
 
 ## Estructura
+<img width="1985" height="548" alt="image" src="https://github.com/user-attachments/assets/3b4f8ac6-f331-4c53-a1c0-9f5be8bb4110" />
 
 ```
 workflows/
