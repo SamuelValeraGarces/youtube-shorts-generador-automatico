@@ -1,0 +1,6 @@
+.env
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+storage/
+n8nEventLog*.log
